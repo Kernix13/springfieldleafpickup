@@ -87,7 +87,7 @@ const ol = document.getElementById("weekly_schedule");
 /* Output the schedule and dates into the DOM */
 for (let i = 0; i < cys.length; i++) {
 
-  // span.dots is to add the dots that are used on the 2 PDF files I found online. I sure that can be removed.
+  // span.dots is to add the dots that are used on the 2 PDF files I found online. I'm sure that can be removed.
   let outputBegin = `<li><span class="precinct">${cys[i]}</span><span class="dots">.........</span><span class="text">Collected the week of: </span><span class="date"><strong><em>`;
 
   const weekIndices1 = [0, 1, 2, 3];
