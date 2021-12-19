@@ -31,8 +31,8 @@ I don't agree with:
 >  idea 2
 
 When a pr has been closed:
-closes #123456
+- closes #123456
 
 To do:
-[ ] something
-[x] something done
+- [ ] something
+- [x] something done
