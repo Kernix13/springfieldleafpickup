@@ -24,11 +24,11 @@ body {margin: 0 auto;}
 - const nums = []
 + const nums = {}
 ```
-I have the following ideas:
+I agree with:
 > idea 1
-> > sub idea
-> > > why nest?
 
->  idea 3
+I don't agree with:
+>  idea 2
 
-which is best?
+When a pr has been closed:
+closes #123456
