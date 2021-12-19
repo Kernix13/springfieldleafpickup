@@ -32,3 +32,7 @@ I don't agree with:
 
 When a pr has been closed:
 closes #123456
+
+To do:
+[ ] something
+[x] something done
