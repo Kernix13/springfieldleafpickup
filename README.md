@@ -26,7 +26,9 @@ body {margin: 0 auto;}
 ```
 I have the following ideas:
 > idea 1
-> > idea 2
-> > idea again
+> > sub idea
+> > > why nest?
+
+>  idea 3
 
 which is best?
