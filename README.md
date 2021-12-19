@@ -19,6 +19,7 @@ body {margin: 0 auto;}
 "name": "jim",
 "job": "front end developer"
 }
+```
 ```diff
 - const nums = []
 + const nums = {}
