@@ -11,6 +11,14 @@ console.log()
 ```css
 body {margin: 0 auto;}
 ```
+```php
+<?php the_content(); ?>
+```
+```json
+{
+"name": "jim",
+"job": "front end developer"
+}
 ```diff
 - const nums = []
 + const nums = {}
